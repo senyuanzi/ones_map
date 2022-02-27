@@ -1,12 +1,12 @@
+import 'package:amap_flutter_base/amap_flutter_base.dart';
 import 'package:dio/dio.dart';
 import 'package:ones_map/amap/web_api/api_value.dart';
 
-import 'package:amap_flutter_base/amap_flutter_base.dart';
 
 import '../model/bicycling_route_entity.dart';
 
 ///路线规划
-class Route {
+class MapRoute {
   ///获取骑行路线数据
   ///origin: 起点坐标
   ///destination: 终点坐标
