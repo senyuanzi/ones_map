@@ -1,15 +1,25 @@
 # ones_map
 
-A new Flutter project.
+ones map package.
 
-## Getting Started
+ones，the chosen，better to flutter.
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+[*ones*](https://github.com/senyuanzi/ones)套件中的map组件。
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+后续会继续开发更新。欢迎加群提出需求和交流：829733587
 
+[comment]: <> (## Getting Started)
+[comment]: <> (#### 特性)
+
+#### 安装
+
+```yaml
+dependencies:
+  ones_map: ^0.1.0
+```
+
+#### 示例
+
+```dart
+
+```
